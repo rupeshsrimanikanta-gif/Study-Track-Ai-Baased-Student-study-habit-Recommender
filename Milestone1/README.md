@@ -26,4 +26,4 @@ This project explores and analyzes the Student Performance dataset. It covers da
 2. Run the notebook cells in order (add your explanations as markdown).
 
 ## Author
-Your Name (Infosys Springboard Intern)
+V Rupesh Sri Manikanta
