@@ -1,16 +1,16 @@
-\# Milestone 2 – Clustering and Pattern Detection
+ Milestone 2 – Clustering and Pattern Detection
 
-\### Study Track AI-Based Student Study Habit Recommender
+Study Track AI-Based Student Study Habit Recommender
 
 
 
-\## Objective
+ Objective :
 
 To analyze student academic performance patterns by clustering students based on their math, reading, and writing scores. The goal is to identify distinct performance groups that can inform personalized study recommendations.
 
 
 
-\## Dataset Source
+Dataset Source :
 
 \- \*\*Source:\*\* Student Performance Dataset (1000 student records)
 
@@ -20,7 +20,7 @@ To analyze student academic performance patterns by clustering students based on
 
 
 
-\## Steps Followed
+ Steps Followed :
 
 1\. \*\*Data Loading:\*\* Loaded the student performance dataset into Google Colab.
 
@@ -40,7 +40,7 @@ To analyze student academic performance patterns by clustering students based on
 
 
 
-\## Tools Used
+ Tools Used :
 
 \- \*\*Platform:\*\* Google Colaboratory
 
@@ -54,11 +54,11 @@ To analyze student academic performance patterns by clustering students based on
 
 
 
-\## Key Insights and Graphs
+ Key Insights and Graphs
 
 
 
-\### Visualizations Created:
+ Visualizations Created:
 
 \- \*\*`cluster\_scatter.png`:\*\* 2D scatter plot showing student clusters in PCA space with distinct color coding
 
@@ -68,9 +68,9 @@ To analyze student academic performance patterns by clustering students based on
 
 
 
-\### Cluster Analysis Results:
+ Cluster Analysis Results:
 
-\- \*\*Cluster -1 (Low Performers):\*\* Students with much lower scores, likely needing significant intervention.
+Cluster -1 (Low Performers):\*\* Students with much lower scores, likely needing significant intervention.
 
 &nbsp; - Average Math Score: 25.56
 
@@ -80,7 +80,7 @@ To analyze student academic performance patterns by clustering students based on
 
 
 
-\- \*\*Cluster 0 (Moderate/High Performers):\*\* Students with good scores, showing balanced academic performance.
+Cluster 0 (Moderate/High Performers):\*\* Students with good scores, showing balanced academic performance
 
 &nbsp; - Average Math Score: 66.46
 
@@ -90,7 +90,7 @@ To analyze student academic performance patterns by clustering students based on
 
 
 
-\### Key Patterns Identified:
+ Key Patterns Identified:
 
 \- Strong positive correlation between math, reading, and writing scores
 
@@ -102,13 +102,13 @@ To analyze student academic performance patterns by clustering students based on
 
 
 
-\## Conclusion
+ Conclusion :
 
 The clustering analysis successfully identified two distinct student performance groups based on academic scores. This segmentation provides a solid foundation for the AI-based study habit recommender system, enabling tailored strategies for different performance levels. Moderate/high performers can receive advanced challenges and balanced support, while low performers would benefit from intensive intervention programs.
 
 
 
-\## Next Steps for Study Habit Recommender
+ Next Steps for Study Habit Recommender
 
 \- Analyze demographic factors within each cluster
 
@@ -117,6 +117,7 @@ The clustering analysis successfully identified two distinct student performance
 \- Implement recommendation algorithms based on cluster characteristics
 
 \- Validate recommendations through student feedback and performance tracking
+
 
 
 
