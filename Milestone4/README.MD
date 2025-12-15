@@ -77,19 +77,19 @@ retrain_model()
 
 All required screenshots are added in the /screenshots/ folder:
 
--- Notebook structure
++ Notebook structure
 
--- Database created successfully
++ Database created successfully
 
--- Student interface
++ Student interface
 
--- Save log success message
++ Save log success message
 
--- DB table view
++ DB table view
 
--- Admin login success
++ Admin login success
 
--- CRUD operation (Add/Update/Delete)
++ CRUD operation (Add/Update/Delete)
 
 ## Demo Video (Optional)
 
@@ -104,21 +104,22 @@ Admin login
 CRUD operation
 ## Milestone Requirements Completed
 
--- Student interface → DONE
++ Student interface → DONE
 
--- Admin panel → DONE
++ Admin panel → DONE
 
--- Secure admin login → DONE
++ Secure admin login → DONE
 
--- CRUD operations → DONE
++ CRUD operations → DONE
 
--- Real-time DB updates → DONE
++ Real-time DB updates → DONE
 
--- AI retraining integration → DONE
++ AI retraining integration → DONE
 
--- Screenshots → DONE
++ Screenshots → DONE
 
--- Demo → Optional (Included if provided)
++ Demo → Optional (Included if provided)
+
 
 
 
