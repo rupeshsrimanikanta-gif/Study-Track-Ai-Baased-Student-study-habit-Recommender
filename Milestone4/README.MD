@@ -4,27 +4,10 @@ The goal of this milestone is to build a **Student Interface** and **Admin Panel
 
 All functionality (data entry, admin login, CRUD operations, and integration with a simple AI retraining placeholder) has been implemented successfully.
 
----
-
-## 📌 Project Structure
-Milestone4/
-├─ Milestone_4_WebInterface_Colab.ipynb
-├─ study_logs.db (optional – database file)
-├─ screenshots/
-│ ├─ 01_notebook_title.png
-│ ├─ 02_db_created.png
-│ ├─ 03_student_ui.png
-│ ├─ 04_saved_log.png
-│ ├─ 05_db_table.png
-│ ├─ 06_admin_login.png
-│ ├─ 07_admin_crud.png
-├─ demo/
-│ └─ milestone4_demo.mp4 (optional demo video)
-└─ README.md
 
 ---
 
-## 🚀 How to Run the Notebook (Google Colab)
+##  How to Run the Notebook (Google Colab)
 
 1. Open the file **Milestone_4_WebInterface_Colab.ipynb** in Google Colab.
 2. Run the first cell to **mount Google Drive**:
@@ -43,10 +26,10 @@ Quick DB View
 
 Retraining function
 
-🔑 Admin Login Credentials (for evaluation)
+ Admin Login Credentials (for evaluation)
 Username: admin
 Password: admin123
-🧑‍🎓 Student Interface (Features)
+ Student Interface (Features)
 
 Enter Name, Email, Subject, Study Duration, Notes
 
@@ -58,7 +41,7 @@ Save directly into SQLite database (stored in Drive)
 
 Real-time update of dropdown student list
 
-🛠 Admin Panel (Features)
+ Admin Panel (Features)
 
 Secure login using hashed password (SHA256)
 
@@ -76,7 +59,7 @@ Real-time database updates
 
 Integrated with quick-view table for verification
 
-🤖 AI Retraining (Placeholder Demo)
+ AI Retraining (Placeholder Demo)
 
 A simple example ML model is included:
 
@@ -90,7 +73,7 @@ Run using:
 
 retrain_model()
 
-📸 Screenshots Included
+ Screenshots Included
 
 All required screenshots are added in the /screenshots/ folder:
 
@@ -108,7 +91,7 @@ Admin login success
 
 CRUD operation (Add/Update/Delete)
 
-🎥 Demo Video (Optional)
+ Demo Video (Optional)
 
 A short walk-through video is provided inside /demo/milestone4_demo.mp4 showing:
 
@@ -119,7 +102,7 @@ Database update
 Admin login
 
 CRUD operation
-✔ Milestone Requirements Completed
+ Milestone Requirements Completed
 
 Student interface → DONE
 
@@ -136,4 +119,5 @@ AI retraining integration → DONE
 Screenshots → DONE
 
 Demo → Optional (Included if provided)
+
 
