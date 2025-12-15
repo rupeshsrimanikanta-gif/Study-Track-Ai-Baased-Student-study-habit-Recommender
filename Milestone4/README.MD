@@ -49,11 +49,11 @@ View all students (table format)
 
 ## CRUD Operations:
 
--- Add Student
+- Add Student
 
--- Update Student
+- Update Student
 
--- Delete Student
+- Delete Student
 
 Real-time database updates
 
@@ -119,6 +119,7 @@ CRUD operation
 -- Screenshots → DONE
 
 -- Demo → Optional (Included if provided)
+
 
 
 
