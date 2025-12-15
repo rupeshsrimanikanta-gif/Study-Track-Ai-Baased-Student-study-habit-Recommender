@@ -6,21 +6,6 @@ All functionality (data entry, admin login, CRUD operations, and integration wit
 
 ---
 
-## 📌 Project Structure
-Milestone4/
-├─ Milestone_4_WebInterface_Colab.ipynb
-├─ study_logs.db (optional – database file)
-├─ screenshots/
-│ ├─ 01_notebook_title.png
-│ ├─ 02_db_created.png
-│ ├─ 03_student_ui.png
-│ ├─ 04_saved_log.png
-│ ├─ 05_db_table.png
-│ ├─ 06_admin_login.png
-│ ├─ 07_admin_crud.png
-├─ demo/
-│ └─ milestone4_demo.mp4 (optional demo video)
-└─ README.md
 
 ---
 
