@@ -95,13 +95,13 @@ All required screenshots are added in the /screenshots/ folder:
 
 A short walk-through video is provided inside /demo/milestone4_demo.mp4 showing:
 
-Student Interface workflow
++ Student Interface workflow
 
-Database update
++ Database update
 
-Admin login
++ Admin login
 
-CRUD operation
++ CRUD operation
 ## Milestone Requirements Completed
 
 + Student interface → DONE
@@ -119,6 +119,7 @@ CRUD operation
 + Screenshots → DONE
 
 + Demo → Optional (Included if provided)
+
 
 
 
