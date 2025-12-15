@@ -73,52 +73,8 @@ Run using:
 
 retrain_model()
 
-## Screenshots Included
 
-All required screenshots are added in the /screenshots/ folder:
 
-+ Notebook structure
-
-+ Database created successfully
-
-+ Student interface
-
-+ Save log success message
-
-+ DB table view
-
-+ Admin login success
-
-+ CRUD operation (Add/Update/Delete)
-
-## Demo Video (Optional)
-
-A short walk-through video is provided inside /demo/milestone4_demo.mp4 showing:
-
-+ Student Interface workflow
-
-+ Database update
-
-+ Admin login
-
-+ CRUD operation
-## Milestone Requirements Completed
-
-+ Student interface → DONE
-
-+ Admin panel → DONE
-
-+ Secure admin login → DONE
-
-+ CRUD operations → DONE
-
-+ Real-time DB updates → DONE
-
-+ AI retraining integration → DONE
-
-+ Screenshots → DONE
-
-+ Demo → Optional (Included if provided)
 
 
 
