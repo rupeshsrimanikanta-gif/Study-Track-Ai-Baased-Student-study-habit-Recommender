@@ -41,7 +41,7 @@ Save directly into SQLite database (stored in Drive)
 
 Real-time update of dropdown student list
 
- Admin Panel (Features)
+## Admin Panel (Features)
 
 Secure login using hashed password (SHA256)
 
@@ -119,5 +119,6 @@ AI retraining integration → DONE
 Screenshots → DONE
 
 Demo → Optional (Included if provided)
+
 
 
