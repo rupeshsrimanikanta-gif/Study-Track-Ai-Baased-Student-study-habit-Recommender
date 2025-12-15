@@ -47,7 +47,7 @@ Secure login using hashed password (SHA256)
 
 View all students (table format)
 
-CRUD Operations:
+## CRUD Operations:
 
 Add Student
 
@@ -59,7 +59,7 @@ Real-time database updates
 
 Integrated with quick-view table for verification
 
- AI Retraining (Placeholder Demo)
+## AI Retraining (Placeholder Demo)
 
 A simple example ML model is included:
 
@@ -73,7 +73,7 @@ Run using:
 
 retrain_model()
 
- Screenshots Included
+## Screenshots Included
 
 All required screenshots are added in the /screenshots/ folder:
 
@@ -91,7 +91,7 @@ Admin login success
 
 CRUD operation (Add/Update/Delete)
 
- Demo Video (Optional)
+## Demo Video (Optional)
 
 A short walk-through video is provided inside /demo/milestone4_demo.mp4 showing:
 
@@ -102,7 +102,7 @@ Database update
 Admin login
 
 CRUD operation
- Milestone Requirements Completed
+## Milestone Requirements Completed
 
 Student interface → DONE
 
@@ -119,6 +119,7 @@ AI retraining integration → DONE
 Screenshots → DONE
 
 Demo → Optional (Included if provided)
+
 
 
 
